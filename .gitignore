@@ -1,4 +1,9 @@
 
+# build output
+.gradle
+build
+out
+
 # idea files
 .idea
 *.iml

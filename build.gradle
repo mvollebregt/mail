@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+group = 'com.github.mvollebregt.mail'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'javax.mail:mail:1.4.7'
+}
